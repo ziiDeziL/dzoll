@@ -1,0 +1,6 @@
+owner=267666234013646849
+prefix=1
+game=LoL Music | 1play
+stayinchannel=true
+songinstatus=false
+token=NTg4NTIzNzQxNzYwMzIzNTg0.XQGXqQ.y2JWThXMld3phcWTTmozveUsN-Y
