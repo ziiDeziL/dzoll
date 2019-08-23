@@ -1,5 +1,5 @@
 owner=267666234013646849
-prefix=!
+prefix=$
 game=LoL Music | !play
 stayinchannel=true
 songinstatus=false
