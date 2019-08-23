@@ -3,4 +3,4 @@ prefix=$
 game=LoL Music | $play
 stayinchannel=true
 songinstatus=false
-token=NTg4NTIzNzQxNzYwMzIzNTg0.XWBanw.Bv5S2lM1KtM1zh7_GsMGTHZThN8
+token=NjE0NTczNTAxOTMxNTg1NTM5.XWBcPw.1RpCcCVh61rD8daziZOOlcCuW1s
