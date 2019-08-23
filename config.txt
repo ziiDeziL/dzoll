@@ -1,6 +1,6 @@
 owner=267666234013646849
 prefix=$
-game=LoL Music | !play
+game=LoL Music | $play
 stayinchannel=true
 songinstatus=false
 token=NTg4NTIzNzQxNzYwMzIzNTg0.XQGXqQ.y2JWThXMld3phcWTTmozveUsN-Y
